@@ -1,9 +1,9 @@
 # Student Management System
 
-un programme en C permet de gerer un liste infinie d'etudiants.
-Chaque etudiant est represente par : matricule, Nom , Prenom , Date de naissance, Date d'inscription, les modules et leurs notes
+A C program that allows managing an infinite list of students.
+Each student is represented by: student ID, last name, first name, date of birth, date of enrollment, the modules, and their grades.
 
-6 semestres Licence
-4 semestres Master
-- Chaque semestre contient des modules defirent
-- Chaque module contient : note CC , note exament et Moyenne
+6 semesters for a Bachelor's degree
+4 semesters for a Master's degree
+- Each semester contains different modules
+-Each module contains: continuous assessment grade, exam grade, and average grade
